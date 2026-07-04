@@ -1,54 +1,22 @@
-## Hi there 👋
+## Hey, I'm Neeraj
 
-I like making things that feel simple and fast.. Atleast its what i like.
+Just a student who likes messing around with electronics and code
 
-Most of what I do sits somewhere between creativity, and curiosity.
+Not really following any rules here, just building random stuff when I get the time:
+- embedded stuff (STM32, ESP32, Arduino) — synths, oscillators, whatever I feel like breaking or building
+- small scripts/tools when something's annoying me and I wanna fix it
+- minimal UIs, TUIs, nothing fancy
 
-<br>
+### Stack
+C++, Python, sometimes JS and GoLang · Blender for 3D · Krita for art · VS Code obviously
 
----
+### Rn
 
-### About me
+circuits and code, no real plan tbh. Just following whatever's interesting that week.
 
-I’m a college student exploring tech in my own way.
-I enjoy figuring things out deeply rather than rushing through them.
-Lately, I’ve been spending time on:
-
-* local AI systems
-* small tools to solve daily problems I was facing
-* minimal interfaces and TUI
-
-<br>
-
----
-
-### Tools I use
-
-* C++, Go, Python and sometimes JavaScript
-* Blender (for 3d)
-* Krita (for arts)
-* VS Code for programming
-
-<br>
-
----
-
-### What I’m aiming for
-
-Just things that work well, feel right, and last.
-
-
-> Simplicity isn’t shallow.
-> It’s just depth without distraction.
-
-
-<br>
-
-
-If something here interests you, feel free to explore.
-
-
-have a great day ^^
+Feel free to look around if any of this's your thing.
 
 ![Visitors](https://komarev.com/ghpvc/?username=VectorBlue-06)
-
+ 
+<!-- tbh i have greater interest for electronics and embedded nowadays.
+well who knows tommorow -->
