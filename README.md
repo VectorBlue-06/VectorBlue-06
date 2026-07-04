@@ -1,9 +1,10 @@
 ## Hey, I'm Neeraj
 
-A student who likes messing around with electronics and code
+A student who likes messing around with electronics 
+<!-- and maybe with code too -->
 
 Just building random stuff when I get the time:
-- embedded stuff (STM32, ESP32, Arduino) — synths, oscillators, whatever I feel like breaking or building
+- embedded stuff (STM32, ESP32, Arduino) synths, oscillators, whatever I feel like breaking or building
 - small scripts/tools when something's annoying me and I wanna fix it
 - minimal UIs, TUIs, nothing fancy
 
